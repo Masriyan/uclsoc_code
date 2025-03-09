@@ -39,10 +39,28 @@ These use cases help security professionals develop effective SIEM detection rul
 - Aligning SIEM rules with frameworks like **MITRE ATT&CK**
 
 ## How to Use
-1. Navigate to the relevant category and review the use cases.
-2. Implement the pseudocode logic in your SIEM system.
-3. Customize thresholds and parameters based on your organization's needs.
-4. Continuously refine detection rules based on evolving threat intelligence.
+### Setting Up
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repo/SIEM-Use-Cases.git
+   ```
+2. Navigate to the repository:
+   ```bash
+   cd SIEM-Use-Cases
+   ```
+
+### Implementing Use Cases
+1. Choose the relevant category based on your SIEM needs.
+2. Review the **pseudocode** and **detection logic** in the corresponding `.md` file.
+3. Convert the logic into detection rules for your SIEM platform (Splunk, ELK, Sentinel, QRadar, etc.).
+4. Customize the detection thresholds and parameters to fit your environment.
+5. Test and validate the rules in a controlled environment before deploying them in production.
+
+### Continuous Improvement
+- Regularly update the threat detection rules based on new intelligence.
+- Integrate **MITRE ATT&CK techniques** for enhanced threat mapping.
+- Monitor **false positives and false negatives** to fine-tune detection logic.
+- Collaborate with the security team to improve detection efficiency.
 
 ## Contribution
 If you'd like to contribute, feel free to submit **pull requests** or suggest enhancements in the **issues** section.
