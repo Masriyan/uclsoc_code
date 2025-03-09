@@ -52,4 +52,4 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 ---
 ### Maintained by:
-[Your Name or Organization] 🚀
+[sudo3rs] 🚀
