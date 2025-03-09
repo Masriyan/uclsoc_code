@@ -1,6 +1,6 @@
 
 # SIEM Use Case Logic
-![Project Screenshot](https://github.com/Masriyan/uclsoc_code/blob/main/image-ucl.jpeg)
+![Project Screenshot](https://github.com/Masriyan/uclsoc_code/blob/main/images/imageheader.jpeg)
 ## Overview
 This repository contains comprehensive SIEM (Security Information and Event Management) use case logic, categorized by security domains. Each use case includes pseudocode to detect various security threats, aiding in building an effective security monitoring system.
 
